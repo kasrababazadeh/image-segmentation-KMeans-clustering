@@ -32,7 +32,7 @@ This project demonstrates the use of unsupervised learning (K-Means Clustering) 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/image-segmentation-kmeans.git
+    git clone https://github.com/kasrababazadeh/image-segmentation-kmeans.git
     cd image-segmentation-kmeans
     ```
 
